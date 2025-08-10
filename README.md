@@ -14,3 +14,11 @@ python encrypt.py
 
 # Step 3: Decrypt the file
 python decrypt.py
+
+### Git 
+1. git init
+2. git add .
+3. git commit -m "Security"
+4. git remote add origin https://github.com/Radhika45/NSC--Secure-Backup-Utility.git
+5. git branch -M main
+6. git push -u origin main
